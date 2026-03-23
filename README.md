@@ -1,6 +1,7 @@
 # 🧑‍💻 devlogs 🪵
 A space to track what I've been working on. Also an overview of all my projects
 
+
 ## ✨ Active Projects
 
 ### 🎮 Video Games
@@ -16,8 +17,12 @@ A space to track what I've been working on. Also an overview of all my projects
 - [spirit-island-database](https://github.com/sammy-hutch/spirit-island-database): Python & dbt. tools for managing a database of spirit island games
 - [spirit-island-dashboard](https://github.com/sammy-hutch/spirit-island-dashboard): Javascript, CSS & HTML. code to build a dashboard for displaying stats for Spirit Island games
 
+
 ## 💤 Dormant Projects
 - [SpiritIslandTracker](https://github.com/sammy-hutch/spirit-island-database/tree/main/app/SpiritIslandTracker): React Expo. App for logging Spirit Island games results
 - [Whirlpool](https://github.com/JonathanJegstrup/Whirlpool): Godot game made for GMTK Game Jam 2025. Collab with [@JonathanJegstrup](https://github.com/JonathanJegstrup) & [@dj3nt-sux](https://github.com/dj3nt-sux)
 
+
 ## 📜 Dev Logs
+
+- [2026-03-23](/devlogs/2026-03-23.md)
