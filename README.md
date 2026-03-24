@@ -12,6 +12,7 @@ A space to track what I've been working on. Also an overview of all my projects
 
 ### ♟️ Boardgames
 - 🏛️ [civ_builder](https://github.com/sammy-hutch/civ_builder): Deckbuilder. rules and data for civ builder boardgame
+- 🐎 [homm3bg-rules](https://github.com/sammy-hutch/homm3bg-rules): Rules and Reference for the Heroes of Might and Magic III Boardgame
 
 ### 📱 Other
 - 🌌 [beyond_the_nebula](https://github.com/sammy-hutch/space4/tree/main/beyond_the_nebula): Lore for and stories set in the Beyond The Nebula (BTN) universe, including space4 and space-invasion games
