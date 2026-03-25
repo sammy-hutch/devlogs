@@ -28,4 +28,5 @@ A space to track what I've been working on. Also an overview of all my projects
 
 ## 📜 Dev Logs
 
-- [2026-03-23](/devlogs/2026-03-23.md)
+- [2026-03-25](/devlogs/2026-03-25.md) 🐎
+- [2026-03-23](/devlogs/2026-03-23.md) 💫
