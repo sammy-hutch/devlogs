@@ -19,6 +19,7 @@ A space to track what I've been working on. Also an overview of all my projects
 - 🎨 [n00b-studios](https://github.com/sammy-hutch/n00b-studios): assets and artwork for games.
 - 🔢 [spirit-island-database](https://github.com/sammy-hutch/spirit-island-database): Python & dbt. tools for managing a database of spirit island games
 - 📊 [spirit-island-dashboard](https://github.com/sammy-hutch/spirit-island-dashboard): Javascript, CSS & HTML. code to build a dashboard for displaying stats for Spirit Island games
+- 🌍 [pixelart_planet_maker](https://github.com/sammy-hutch/pixelart_planet_maker): Procedural planet sprite generation
 
 
 ## 💤 Dormant Projects
@@ -28,5 +29,6 @@ A space to track what I've been working on. Also an overview of all my projects
 
 ## 📜 Dev Logs
 
+- [2026-04-20](/devlogs/2026-04-20.md) 🌍
 - [2026-03-25](/devlogs/2026-03-25.md) 🐎
 - [2026-03-23](/devlogs/2026-03-23.md) 💫
