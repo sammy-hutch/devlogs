@@ -23,12 +23,14 @@ A space to track what I've been working on. Also an overview of all my projects
 
 
 ## 💤 Dormant Projects
+- 🐾 [Pet Palace](https://github.com/sammy-hutch/pet-palace): React Expo. Productivity app where you adopt cats
 - 📲 [SpiritIslandTracker](https://github.com/sammy-hutch/spirit-island-database/tree/main/app/SpiritIslandTracker): React Expo. App for logging Spirit Island games results
 - ⚓ [Whirlpool](https://github.com/JonathanJegstrup/Whirlpool): Godot game made for GMTK Game Jam 2025. Collab with [@JonathanJegstrup](https://github.com/JonathanJegstrup) & [@dj3nt-sux](https://github.com/dj3nt-sux)
 
 
 ## 📜 Dev Logs
 
+- [2026-06-06](/devlogs/2026-06-06.md) 🐾
 - [2026-04-20](/devlogs/2026-04-20.md) 🌍
 - [2026-03-25](/devlogs/2026-03-25.md) 🐎
 - [2026-03-23](/devlogs/2026-03-23.md) 💫
