@@ -30,6 +30,7 @@ A space to track what I've been working on. Also an overview of all my projects
 
 ## 📜 Dev Logs
 
+- [2026-07-08](/devlogs/2026-07-08.md) 🎨
 - [2026-06-29](/devlogs/2026-06-29.md) 🎨
 - [2026-06-06](/devlogs/2026-06-06.md) 🐾
 - [2026-04-20](/devlogs/2026-04-20.md) 🌍
