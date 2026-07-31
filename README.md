@@ -23,6 +23,7 @@ A space to track what I've been working on. Also an overview of all my projects
 
 
 ## 💤 Dormant Projects
+- 🚀 [Oxygen Runner](https://github.com/JonathanJegstrup/OxygenRunner): Godot game made for GMTK Game Jam 2026. Collab with [@JonathanJegstrup](https://github.com/JonathanJegstrup) & [@dj3nt-sux](https://github.com/dj3nt-sux)
 - 🐾 [Pet Palace](https://github.com/sammy-hutch/pet-palace): React Expo. Productivity app where you adopt cats
 - 📲 [SpiritIslandTracker](https://github.com/sammy-hutch/spirit-island-database/tree/main/app/SpiritIslandTracker): React Expo. App for logging Spirit Island games results
 - ⚓ [Whirlpool](https://github.com/JonathanJegstrup/Whirlpool): Godot game made for GMTK Game Jam 2025. Collab with [@JonathanJegstrup](https://github.com/JonathanJegstrup) & [@dj3nt-sux](https://github.com/dj3nt-sux)
@@ -30,6 +31,7 @@ A space to track what I've been working on. Also an overview of all my projects
 
 ## 📜 Dev Logs
 
+- [2026-07-31](/devlogs/2026-07-31.md) 🚀
 - [2026-07-19](/devlogs/2026-07-19.md) 💫
 - [2026-07-08](/devlogs/2026-07-08.md) 🎨
 - [2026-06-29](/devlogs/2026-06-29.md) 🎨
